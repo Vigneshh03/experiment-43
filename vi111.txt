@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello e
 
+=======
+hello kaiseho appp
+veryonegrj,f
+>>>>>>> vk
